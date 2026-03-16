@@ -20,7 +20,7 @@
 <h3 align="center">_Forging AI Narratives, One Product at a Time._</h3>
 <p align="center">
   <!-- Typing animation line (Noto Serif SC, 18px) - 匿名化教育背景和产品状态 -->
-  用 AI 解决真实问题 · 故事驱动的产品思维 · 打造鸿蒙生态 AI 体验
+  用 AI 解决真实问题 · 故事驱动的产品思维 · 创作出更多有趣的产品
 </p>
 
 <p align="center">
