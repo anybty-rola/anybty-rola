@@ -23,7 +23,6 @@
 ### 探索足迹 (Highlights)
 *   **AI 产品构建：** 完整参与从概念到市场落地的 AI 产品周期。
 *   **故事化思维：** 擅长将复杂技术转化为用户易懂、触动人心的产品叙事。
-*   **鸿蒙生态实践：** 深入探索 HarmonyOS 平台的 AI 应用潜力与落地。
 *   **跨地域市场洞察：** 拥有多市场 GTM 策略制定与执行经验。
 
 ---
@@ -65,7 +64,7 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:ai.narrator.contact@example.com">ai.narrator.contact@example.com</a>
+  📧 <a anybty08@gmail.com">ai.narrator.contact@example.com</a>
 </p>
 
 <!-- 移除下载故事集按钮，保持更精简 -->
