@@ -3,36 +3,14 @@
   这是一份匿名化、极客风格的 AI 创作者档案，
   旨在通过“高定杂志与AI实验室”的审美，展现对 AI 的热情、故事思维与动手实践。
   核心：匿名、AI聚焦、故事驱动、咖啡因燃料。
-
-  请注意：
-  Markdown 无法直接实现复杂的 CSS 样式（如自定义字体、精确颜色、圆角/锐角）、
-  CSS 动画、多列布局、背景纹理、JS 交互（如咖啡彩蛋）。
-  此处通过徽章、文本格式、Emoji 等进行视觉暗示和结构化内容。
+  此版本已删除作品集部分和主页顶部的行动按钮。
 -->
 
 <h1 align="center">Greetings, fellow AI Enthusiast 👋</h1>
 
-<p align="center">
-  <!-- Overline (DM Mono, small caps, gold) - 匿名化位置，强调AI领域 -->
-  <img src="https://img.shields.io/badge/AI%20BUILDER_EXPLORER-e8c547?style=for-the-badge&logo=openai&logoColor=0c0c0c&labelColor=0c0c0c" alt="AI BUILDER · EXPLORER"/>
-</p>
-
 <h3 align="center">_Forging AI Narratives, One Product at a Time._</h3>
 <p align="center">
-  <!-- Typing animation line (Noto Serif SC, 18px) - 匿名化教育背景和产品状态 -->
   用 AI 解决真实问题 · 故事驱动的产品思维 · 创作出更多有趣的产品
-</p>
-
-<p align="center">
-  <!-- "查看创作 →" (gold outlined, fills on hover) - 指向匿名作品集 -->
-  <a href="https://your-anonymous-ai-portfolio.com/#projects" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW%20CREATIONS_→-E8C547?style=for-the-badge&logo=codepen&logoColor=0c0c0c&labelColor=0c0c0c" alt="查看创作 →" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- "建立连接 →" (text-only link) - 指向匿名联系方式 -->
-  <a href="https://your-anonymous-ai-portfolio.com/#contact" target="_blank">
-    <img src="https://img.shields.io/badge/CONNECT_→-F0ECE4?style=for-the-badge&logo=mail.ru&logoColor=0c0c0c&labelColor=0c0c0c" alt="建立连接 →" />
-  </a>
 </p>
 
 ---
@@ -78,62 +56,6 @@
 <p align="center">◆</p>
 ---
 
-<!-- SECTION 04 — Projects (匿名化) -->
-<h2 align="right">PROJECTS / AI 作品集</h2>
-Intro: "从零到一，每个 AI 实验都亲手完成。"
-
-### Project 1: 打工鸭激励日志
-<!-- Badge: ✅ 已上架 - 匿名化平台 -->
-<img src="https://img.shields.io/badge/✅_已上架_AI%20Platform-e8c547?style=for-the-badge&logoColor=0c0c0c&color=e8c547&labelColor=0c0c0c" alt="已上架 AI Platform" />
-<img src="https://img.shields.io/badge/HarmonyOS-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="HarmonyOS" />
-<img src="https://img.shields.io/badge/情绪科技-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="情绪科技" />
-<img src="https://img.shields.io/badge/独立设计-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="独立设计" />
-
-**核心：** HarmonyOS 平台首款职场情绪激励 AI 应用。解决职场人情绪宣泄与隐私保护需求，通过**本地 AI 分析引擎**提供个性化反馈。
-*   用户访谈与竞品分析，制定差异化 AI 策略。
-*   设计 AI 情绪分析引擎（关键词匹配 + 规则引擎）。
-*   规划虚拟陪伴人及匿名社交的 AI 迭代路径。
-*   1.0 版本成功上线主流应用平台。
-[查看文档 →](https://your-anonymous-ai-portfolio.com/#duck-log)
-
-### Project 2: NailAI Studio
-<img src="https://img.shields.io/badge/🌐_Demo可体验-f0ece4?style=for-the-badge&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="Demo 可体验" />
-<img src="https://img.shields.io/badge/多模态AI-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="多模态AI" />
-<img src="https://img.shields.io/badge/AIGC生成-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="AIGC生成" />
-<img src="https://img.shields.io/badge/Figma原型-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="Figma原型" />
-
-**核心：** 多模态美甲风格 AI 生成应用。AI 辅助美甲师生成适合手型的风格预览。
-*   明确"上传照片 + 风格选择 + 生成预览"AI 核心路径。
-*   完成 Figma 原型与 MVP 功能规划。
-*   基于 GitHub + Netlify 实现自动化部署。
-[体验 Demo →](https://nailaistudio.netlify.app)
-
-### Project 3: 灵犀速写
-<img src="https://img.shields.io/badge/🔄_迭代优化中-3a3a3a?style=for-the-badge&logoColor=f0ece4&color=3a3a3a&labelColor=0c0c0c" alt="迭代优化中" />
-<img src="https://img.shields.io/badge/AIGC写作-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="AIGC写作" />
-<img src="https://img.shields.io/badge/HarmonyOS-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="HarmonyOS" />
-<img src="https://img.shields.io/badge/创作者工具-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="创作者工具" />
-
-**核心：** 面向创作者的 AI 写作辅助应用。平衡 AI 创作效率、内容质量与合规风险。
-*   结合作者反馈，确定 AI 结构辅助与灵感记录为核心需求。
-*   设计 AI 灵感卡片、角色/世界观设定辅助等核心功能。
-*   规划大模型接入方案（2.0）。
-[体验 Demo →](https://musepen.netlify.app)
-
-### Project 4: AI MV (AI Narrative MV Creation)
-<img src="https://img.shields.io/badge/🏆_竞赛作品-c0392b?style=for-the-badge&logoColor=f0ece4&color=c0392b&labelColor=0c0c0c" alt="竞赛作品" />
-<img src="https://img.shields.io/badge/AIGC创作-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="AIGC创作" />
-<img src="https://img.shields.io/badge/多模态AI-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="多模态AI" />
-<img src="https://img.shields.io/badge/影像叙事-3a3a3a?style=for-the-badge&color=3a3a3a&labelColor=0c0c0c" alt="影像叙事" />
-
-**核心：** 围绕"女性觉醒"主题，**利用多款 AIGC 工具进行创作，输出系列叙事 MV 作品。**
-*   **创作工具：** 融合可灵 / 即梦 / Vidu / 海螺 / GPT / Gemini / Midjourney 等。
-*   **叙事维度：** 专注于人物一致性 · 风格稳定性 · 叙事连续性。
-*   **验证：** 探索 AIGC 在多风格影像创作中的表达边界与可控性。
-[查看作品 →](https://m.lumio.qq.com/video/d1257z8z4s)
-
----
-
 <!-- SECTION 07 — Contact (匿名化) -->
 <h2 align="center">建立连接 / CONNECT</h2>
 <p align="center">
@@ -146,12 +68,7 @@ Intro: "从零到一，每个 AI 实验都亲手完成。"
   📧 <a href="mailto:ai.narrator.contact@example.com">ai.narrator.contact@example.com</a>
 </p>
 
-<p align="center">
-  <!-- Button: "获取我的故事集" (替代简历，更符合故事感) -->
-  <a href="https://your-anonymous-ai-portfolio.com/story-catalog.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/获取我的故事集_→-E8C547?style=for-the-badge&logo=document&logoColor=0c0c0c&labelColor=0c0c0c" alt="获取我的故事集" />
-  </a>
-</p>
+<!-- 移除下载故事集按钮，保持更精简 -->
 
 ---
 
@@ -163,3 +80,5 @@ Intro: "从零到一，每个 AI 实验都亲手完成。"
 <!-- ☕ Coffee Easter Egg (REQUIRED) - Markdown无法直接实现，仅为提示 -->
 <!--
 在您的独立作品集网站中，务必实现这个咖啡彩蛋！
+Fixed ☕ icon (bottom-right), shows "今日咖啡进度 ☕☕☕ / 3" on click.
+-->
