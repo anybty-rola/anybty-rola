@@ -1,105 +1,97 @@
 <!--
   欢迎来到黄丽娜的 GitHub 个人主页！
-  这份 README 旨在用 Markdown 语法，尽量模拟您“高定杂志与AI实验室”的审美，
-  呈现您作为AI产品经理的核心信息。
-  请注意，复杂的字体、CSS 动画、精确的布局和背景纹理无法直接在Markdown中实现，
-  但可以通过徽章、链接和简洁的结构来传递信息和视觉感。
+  这份 README 旨在用 Markdown 语法，结合您的“高定杂志与AI实验室”审美，
+  呈现一个极客风格的、非简历模式的个人介绍。
+  核心：简洁、技术、个性化，通过徽章和精炼的文字快速传达信息。
+-->
+
+<h1 align="center">Hi! I'm HuangLina (黄丽娜) 👋</h1>
+
+<p align="center">
+  <!-- AI Product Manager Badge - 更具极客感，用你提供的颜色 -->
+  <img src="https://img.shields.io/badge/AI%20PRODUCT%20MANAGER-e8c547?style=for-the-badge&logo=ai&logoColor=0c0c0c&labelColor=0c0c0c" alt="AI PRODUCT MANAGER" />
+  <!-- Location Badge -->
+  <img src="https://img.shields.io/badge/SHANGHAI-c0392b?style=for-the-badge&logo=openstreetmap&logoColor=f0ece4&labelColor=0c0c0c" alt="Shanghai" />
+</p>
+
+<!-- 核心信息，用短句概括 -->
+<p align="center">
+  用 AI 解决真实问题 · 产品已上架鸿蒙商城 · 持续探索 AIGC 的边界
+</p>
+
+---
+
+## 🔬 My Tech Stack & Research Interests
+
+<!-- 技能标签，用你提供的颜色，更突出 -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3a3a3a&labelColor=0c0c0c" alt="Python" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=3a3a3a&labelColor=0c0c0c" alt="Figma" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=3a3a3a&labelColor=0c0c0c" alt="SQL" />
+  <img src="https://img.shields.io/badge/HarmonyOS-007DFF?style=for-the-badge&logo=huawei&logoColor=white&color=3a3a3a&labelColor=0c0c0c" alt="HarmonyOS" />
+  <img src="https://img.shields.io/badge/AIGC-FF6F00?style=for-the-badge&logo=openai&logoColor=white&color=3a3a3a&labelColor=0c0c0c" alt="AIGC" />
+  <img src="https://img.shields.io/badge/User%20Research-6D3EBE?style=for-the-badge&logo=researchgate&logoColor=white&color=3a3a3a&labelColor=0c0c0c" alt="User Research" />
+  <img src="https://img.shields.io/badge/Product%20Strategy-00B2A9?style=for-the-badge&logo=producthunt&logoColor=white&color=3a3a3a&labelColor=0c0c0c" alt="Product Strategy" />
+  <!-- 你可以继续添加其他技能徽章，例如 数据分析、项目管理 等 -->
+</p>
+
+<br>
+
+**专注于：** AI 产品设计、需求分析、GTM 策略、以及通过代码和故事驱动真实世界的产品落地。目前是一个 AI 新手，但好奇心永不熄灭，致力于让 AI 更有趣。
+
+---
+
+## 🧠 What I'm Learning & Building
+
+<!-- 正在学习和构建的内容，用简洁的列表或短句 -->
+*   **Dive Deep into AI:** 探索大模型 (LLMs) 的应用与优化。
+*   **Shipping Products:** 从概念到上架，全生命周期参与产品构建。
+*   **Storytelling with Data:** 如何用数据和叙事驱动产品决策。
+*   **Open Source Contributions:** (如果你有计划) 寻找有趣的开源项目。
+
+---
+
+## 🚀 Projects & Contributions
+
+<!-- 这里可以放你的置顶项目，或者 GitHub Stats Card -->
+<!-- GitHub Pinned Repositories 会自动显示在下方，所以这里可以放一个简短的引导 -->
+Check out my pinned repositories below for some of my recent work and experiments.
+
+<!-- GitHub Stats Card - 更暗色调，匹配你的背景色 -->
+[![HuangLina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuangLina&show_icons=true&theme=dark&bg_color=0c0c0c&text_color=f0ece4&icon_color=e8c547&hide_border=true)](https://github.com/anurag-roy/github-readme-stats)
+<!-- 如果想显示更多信息，例如常用语言： -->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangLina&layout=compact&theme=dark&bg_color=0c0c0c&text_color=f0ece4&icon_color=e8c547&hide_border=true)](https://github.com/anurag-roy/github-readme-stats)
 -->
 
 ---
 
+## ☕ My Daily Fuel
+
+<!-- 融入你的咖啡爱好者人设，更个性化 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20PRODUCT%20MANAGER-SHANGHAI-e8c547?style=for-the-badge&labelColor=0c0c0c&color=e8c547" alt="AI Product Manager · Shanghai"/>
+  **3 Cups a Day.** My brain runs on caffeine and genuine curiosity. Got a cool AI idea or a killer coffee recommendation? Let's connect!
 </p>
 
-# 黄丽娜
-### _Huang Lina_
-
-**用 AI 解决真实问题 · 香港理工大学 · 产品已上架鸿蒙商城**
-
-<br>
-
-<!--
-  通过徽章来模拟“查看作品”和“联系我”按钮，并用颜色和图标突出。
-  实际的链接需要替换为您的作品集网址和联系方式。
--->
+<!-- 联系方式徽章，颜色更克制 -->
 <p align="center">
   <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/查看作品-E8C547?style=for-the-badge&logo=codepen&logoColor=0c0c0c&labelColor=0c0c0c" alt="查看作品 →" />
+    <img src="https://img.shields.io/badge/Portfolio-E8C547?style=for-the-badge&logo=netlify&logoColor=0c0c0c&labelColor=0c0c0c" alt="View Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/联系我-F0ECE4?style=for-the-badge&logo=mail.ru&logoColor=0c0c0c&labelColor=0c0c0c" alt="联系我 →" />
+    <img src="https://img.shields.io/badge/Email-F0ECE4?style=for-the-badge&logo=gmail&logoColor=0c0c0c&labelColor=0c0c0c" alt="Say Hi" />
   </a>
+  <!-- 如果有其他社交媒体，可以加上，例如 LinkedIn -->
+  <!--
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=3a3a3a&labelColor=0c0c0c" alt="LinkedIn" />
+  </a>
+  -->
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AIGC-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="AIGC" />
-  <img src="https://img.shields.io/badge/HARMONYOS-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="HARMONYOS" />
-  <img src="https://img.shields.io/badge/GTM-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="GTM" />
-  <img src="https://img.shields.io/badge/USER%20RESEARCH-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="USER RESEARCH" />
-  <img src="https://img.shields.io/badge/PRD-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="PRD" />
-  <img src="https://img.shields.io/badge/DATA%20ANALYSIS-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="DATA ANALYSIS" />
-  <img src="https://img.shields.io/badge/PRODUCT%20LAUNCH-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="PRODUCT LAUNCH" />
-  <img src="https://img.shields.io/badge/AI%20PM-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="AI PM" />
-  <img src="https://img.shields.io/badge/☕%20COFFEE%20ADDICT-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="COFFEE ADDICT" />
-  <img src="https://img.shields.io/badge/DIY%20COFFEE-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="DIY COFFEE" />
-  <img src="https://img.shields.io/badge/3%20CUPS%20A%20DAY-3a3a3a?style=flat-square&labelColor=0c0c0c&color=3a3a3a" alt="3 CUPS A DAY" />
-</p>
-
----
-
-## ABOUT / 关于我
 
 <br>
-
-我是一名热爱动手实验的 **AI 产品经理**，从用户研究到 PRD 撰写，从 Figma 原型到产品上架，我参与产品的完整生命周期。我相信好的 AI 产品不只是功能堆叠，而是在对的场景下，真正解决人的情感与效率需求。
-
-### 教育背景
-
-*   **2023–2024** | 香港理工大学 | 会计与金融分析理学硕士 | QS 57
-*   **2020** | 南洋理工大学 | 商业分析暑期课程
-*   **2018–2022** | 大连海事大学（211）| 行政管理学士
-
-### 核心技能
-
-<!-- 使用 Shields.io 生成技能标签，颜色和样式尽量匹配设计系统 -->
-<p>
-  <img src="https://img.shields.io/badge/AI产品设计-f0ece4?style=for-the-badge&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="AI产品设计" />
-  <img src="https://img.shields.io/badge/需求分析-f0ece4?style=for-the-badge&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="需求分析" />
-  <img src="https://img.shields.io/badge/竞品研究-f0ece4?style=for-the-badge&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="竞品研究" />
-  <img src="https://img.shields.io/badge/AIGC工具评测-f0ece4?style=for-the-badge&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="AIGC工具评测" />
-  <img src="https://img.shields.io/badge/HarmonyOS开发协同-f0ece4?style=for-the-badge&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="HarmonyOS开发协同" />
-  <img src="https://img.shields.io/badge/数据分析-f0ece4?style=for-the-badge&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="数据分析" />
-  <img src="https://img.shields.io/badge/海外GTM-f0ece4?style=for-the-badge&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="海外GTM" />
-  <img src="https://img.shields.io/badge/项目管理-f0ece4?style=for-the-badge&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="项目管理" />
-  <img src="https://img.shields.io/badge/Python-f0ece4?style=for-the-badge&logo=python&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-f0ece4?style=for-the-badge&logo=mysql&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="SQL" />
-  <img src="https://img.shields.io/badge/Figma-f0ece4?style=for-the-badge&logo=figma&logoColor=0c0c0c&color=3a3a3a&labelColor=0c0c0c" alt="Figma" />
+<p align="right">
+  _Shipped with curiosity, brewed with intent._
 </p>
-
----
-
-## THE PERSON / 这个人
-
-_我从小学六年级开始读小说——那时候我就知道，好的产品跟好的故事一样：得让人想继续往下走。_
-
-<br>
-
-**真诚的好奇心，咖啡因驱动，一个故事的思考者。**
-
-我深信产品经理的职责远不止是管理需求，更是**编织用户体验的故事**。无论是分析数据、与工程师协作，还是进行市场推广，我都致力于将冰冷的技术转化为有温度、有叙事感的解决方案。生活中，我酷爱咖啡，每日三杯是标配，它激发着我的创造力，也伴随着我对新事物的不断探索。
-
----
-
-### 我的 GitHub 统计
-
-<!-- 这部分可以考虑添加，也可以选择不加，保持简洁。
-     如果您想加，可以这样： -->
-<!--
-[![HuangLina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuangLina&show_icons=true&theme=dark&bg_color=0c0c0c&text_color=f0ece4&icon_color=e8c547&hide_border=true)](https://github.com/anurag-roy/github-readme-stats)
--->
-
----
-
-_Fueled by caffeine and genuine curiosity. Shipped with care._
