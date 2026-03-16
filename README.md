@@ -1,30 +1,4 @@
-<!--
-  欢迎来到 AI_Narrator 的 GitHub 空间。
-  这是一份匿名化、极客风格的 AI 创作者档案，
-  旨在通过“高定杂志与AI实验室”的审美，展现对 AI 的热情、故事思维与动手实践。
-  核心：匿名、AI聚焦、故事驱动、咖啡因燃料。
-  此版本已删除作品集部分和主页顶部的行动按钮。
--->
-
-<h1 align="center">Greetings, fellow AI Enthusiast 👋</h1>
-
-<h3 align="center">_Forging AI Narratives, One Product at a Time._</h3>
-<p align="center">
-  用 AI 解决真实问题 · 故事驱动的产品思维 · 创作出更多有趣的产品
-</p>
-
----
-
-<!-- SECTION 02 — About (匿名化) -->
-<h2 align="right">ABOUT / AI 探索日志</h2>
-
 我是一名热爱动手实验的 **AI 产品理念践行者**，专注于将前沿 AI 技术转化为真实可用的产品体验。从用户研究到产品发布，我信奉**故事驱动的产品哲学**：AI 产品不应只是功能堆叠，而是在对的场景下，通过富有情感和效率的故事，真正解决人的深层需求。
-
-### 探索足迹 (Highlights)
-*   **AI 产品构建：** 完整参与从概念到市场落地的 AI 产品周期。
-*   **故事化思维：** 擅长将复杂技术转化为用户易懂、触动人心的产品叙事。
-*   **跨地域市场洞察：** 拥有多市场 GTM 策略制定与执行经验。
-
 ---
 
 <!-- SECTION 03 — "这个AI观察者" (The Observer Behind the AI) (模拟) -->
